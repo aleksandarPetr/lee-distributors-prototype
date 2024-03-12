@@ -1,0 +1,13 @@
+.qr-title {
+  margin-bottom: 1.25rem;
+}
+
+.qr-message {
+  margin-bottom: 0;
+  font-size: 14px;
+  color: 'grey';
+}
+
+.confirm-button-wrapper {
+  margin-top: '1rem';
+}

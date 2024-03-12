@@ -1,0 +1,22 @@
+.info {
+  /* background-color: rgba(0, 53, 107, 0.45); */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  /* padding-top: 0.5rem; */
+  padding-left: 1rem;
+}
+
+.product-carousel-wrapper {
+  margin-top: 2rem;
+}
