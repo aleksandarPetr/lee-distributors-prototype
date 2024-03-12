@@ -1,0 +1,56 @@
+.basic-product-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-self: flex-start;
+  align-content: flex-start;
+}
+
+.product-sku-number {
+  color: grey;
+  font-size: 0.9rem;
+}
+
+.product-title {
+  font-size: 1.25rem;
+}
+
+.product-description {
+  color: grey;
+  font-size: 0.9rem;
+  text-align: left;
+}
+
+.quantity-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.quantity-title {
+  font-size: 1.25rem;
+  margin-bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.quantity-number {
+  font-size: 1.25rem;
+  color: #375e8c;
+  font-weight: 800;
+}
+
+.confirmation-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+}
+
+.css-46bh2p-MuiCardContent-root:last-child {
+  padding-bottom: 16px !important;
+}

@@ -1,0 +1,26 @@
+.success-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.confirmation-title {
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+.confirmation-message {
+  margin-bottom: 0;
+  font-size: 14px;
+  color: 'grey';
+}
+
+.confirmation-button-wrapper {
+  margin-top: '1rem';
+}
+
+.back-to-home-page-mesage {
+  font-size: 1.25rem;
+  font-weight: 400;
+}

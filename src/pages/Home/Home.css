@@ -1,0 +1,16 @@
+.home {
+  background-color: #ebeff4;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.bar-code-container {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
+
+.bar-code-wrapper {
+  margin-top: '1rem';
+}

@@ -1,0 +1,31 @@
+.css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root {
+  padding-left: 0 !important;
+}
+
+.css-1c35hjw-MuiPaper-root-MuiAccordion-root {
+  background-color: transparent;
+}
+
+.MuiAccordion-root {
+  box-shadow: none !important;
+  border: none !important;
+}
+
+.MuiAccordion-root:before {
+  display: none !important;
+}
+
+.MuiAccordionSummary-root {
+  border: none !important;
+}
+
+.warehouse-accordion-option {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root:hover:not(
+    .Mui-disabled
+  ) {
+  padding-right: 0;
+}
